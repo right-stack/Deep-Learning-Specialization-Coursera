@@ -33,7 +33,7 @@ This is Coursera's [Deep Learning Specialization](https://www.coursera.org/speci
 ```
 * Orthogonalization 
 * Evaluation Metrics
-* Satisfycing and Optimization Metrics
+* Satisfycing and Optimizing Metrics
 * Avoidable Bias
 * Error Analysis
 * Transfer Learning
