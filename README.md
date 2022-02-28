@@ -1,5 +1,7 @@
 # Deep-Learning-Specialization-Coursera
 
+Deep Learning Specialization on Coursera
+
 This is Coursera's [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) which teaches the fundamentals of Deep Learning.   It constitutes five courses with  exercises listed as follows:
 
 1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
